@@ -1,0 +1,36 @@
+.background {
+
+    background-image: url("https://media.istockphoto.com/photos/scenic-of-mountain-on-heaven-above-the-ground-good-background-picture-id477000884?k=20&m=477000884&s=170667a&w=0&h=Emluh7a5begjdvwsHsJaT7_4wR_n4ojOD53XYIo7Km8=");
+    background-position:center;
+    background-size: cover;
+}
+
+.heading {
+
+    width: 80%;
+    font-size: 30px;
+
+}
+
+#camera {
+
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+
+color: white;
+}
+
+#view {
+
+    font-size: 23px;
+}
+
+p {
+
+    background-color:deepskyblue;
+}
